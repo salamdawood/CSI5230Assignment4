@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="edu.csi5230.salamdawood.csi5230assignment1.PlayGameActivity" />
+        <activity android:name=".PlayGame"></activity>
     </application>
 
 </manifest>
